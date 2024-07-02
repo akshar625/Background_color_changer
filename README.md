@@ -10,7 +10,6 @@ This is a simple React application that allows users to change the background co
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
