@@ -33,7 +33,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/color-picker-app.git
+    git clone https://github.com/akshar625/Background_color_changer.git
     cd color-picker-app
     ```
 
