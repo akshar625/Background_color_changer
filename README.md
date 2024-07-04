@@ -34,7 +34,7 @@ To set up this project locally, follow these steps:
 1. Clone the repository:
     ```sh
     git clone https://github.com/akshar625/Background_color_changer-React.git
-    cd color-picker-app
+    cd Background_color_changer-React
     ```
 
 2. Install dependencies:
